@@ -16,7 +16,7 @@ class App extends Component{
 
 // ComponentDidMount will get called when a component is called
   componentDidMount(){
-    fetch('http://jsonplaceholder.typicode.com/users').then((response)=>{
+    fetch('//jsonplaceholder.typicode.com/users').then((response)=>{
 
       if(response.status === 200){
         return response.json()
