@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Monsters-academia/static/css/main.254639fc.css",
-    "main.js": "/Monsters-academia/static/js/main.053e9ee7.js",
+    "main.js": "/Monsters-academia/static/js/main.cb930e03.js",
     "static/js/787.366f89d0.chunk.js": "/Monsters-academia/static/js/787.366f89d0.chunk.js",
     "index.html": "/Monsters-academia/index.html",
     "main.254639fc.css.map": "/Monsters-academia/static/css/main.254639fc.css.map",
-    "main.053e9ee7.js.map": "/Monsters-academia/static/js/main.053e9ee7.js.map",
+    "main.cb930e03.js.map": "/Monsters-academia/static/js/main.cb930e03.js.map",
     "787.366f89d0.chunk.js.map": "/Monsters-academia/static/js/787.366f89d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.254639fc.css",
-    "static/js/main.053e9ee7.js"
+    "static/js/main.cb930e03.js"
   ]
 }
